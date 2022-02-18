@@ -1,0 +1,37 @@
+body {
+    font: 30px Arial, sans-serif;
+
+
+}
+.navbar {
+    background-color: #00A8FF;
+}
+.quem-somos {
+    background-color: aqua;
+}
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.roudedcircle { 
+    border: solid black;
+    border-radius: 30px;
+}
+
+.parceiros {
+    background-color: gray;
+}
+.rodape {
+    background-color: black;
+    color: white;
+}
+.info1 {
+    font-size: 20px;
+}
+.info2 {
+    font-size: 17px;
+}
+.info3 {
+    font-size: 18px;
+}
